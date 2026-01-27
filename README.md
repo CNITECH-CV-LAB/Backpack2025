@@ -26,7 +26,7 @@ dataset_root/
 ```
 ## 📦 Dataset Download
 
-The dataset is hosted on Google Drive and Baidu Netdisk.  
+The dataset is hosted on Baidu Netdisk.  
 👉 You can download individual sequences using the links below:
 
 | Sequence | Length (m) | Duration (s) | Size (GB) | Environment | Download |
